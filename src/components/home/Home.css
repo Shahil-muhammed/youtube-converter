@@ -1,0 +1,32 @@
+.head{
+    color: chartreuse;
+    font-size: 57px;
+    margin: inherit;
+    text-shadow: #ff0000 2px 5px;
+}
+.header{
+    background-color: black;
+    height: 60px;
+    margin: 0;
+}
+.top{
+    position: fixed;
+}
+.faras{
+    height: 100px;
+    background-color: rgb(62, 19, 131);
+    text-align: center;
+}
+.button{
+    text-align: center;
+    background-color: rgb(36, 20, 20);
+}
+.urlcol{
+    height: 33px;
+    width: 318px;
+
+}
+.enter{
+    color: white;
+    font-weight: bolder;
+}
